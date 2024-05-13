@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages and Tools
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667](https://github.com/AntonioER9/AntonioER9/assets/28747544/d20d3ea1-f515-421a-ab2b-c86770a2b2a7)
-![1200px-Node js_logo svg](https://github.com/AntonioER9/AntonioER9/assets/28747544/45953c23-b530-4350-95ba-7e14f90a2f37)
+![68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6e6f64652d6a732f6c6f676f2d6e6f64652d6a732d3235362e706e67](https://github.com/AntonioER9/AntonioER9/assets/28747544/34752fe2-d4a4-49f3-afb9-3592b62b2ff2)
+![react-icon-256x256-2yyldh38](https://github.com/AntonioER9/AntonioER9/assets/28747544/5cf2aec6-2cbb-4458-94d4-cb0880b2d4f6)
+![TypeScript](https://github.com/AntonioER9/AntonioER9/assets/28747544/1cbef8a5-466c-4725-928c-799eaf4a2a33)
+![images](https://github.com/AntonioER9/AntonioER9/assets/28747544/89f9fd95-db8c-4964-b13d-3bc45d0df19c)
+
+
 
 ### I'm currently learning more about Kafka and C#. 
