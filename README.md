@@ -1,4 +1,4 @@
-### Hi there 👋
+## Software Engineer with over 5 years of experience successfully developing more than 10 projects for various types of businesses using agile methodologies. Motivated by continuous learning and collaborative work.
 
 <!--
 **AntonioER9/AntonioER9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages and Tools
 ![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d617232312e737667](https://github.com/AntonioER9/AntonioER9/assets/28747544/d20d3ea1-f515-421a-ab2b-c86770a2b2a7)
+![1200px-Node js_logo svg](https://github.com/AntonioER9/AntonioER9/assets/28747544/45953c23-b530-4350-95ba-7e14f90a2f37)
+
+### I'm currently learning more about Kafka and C#. 
