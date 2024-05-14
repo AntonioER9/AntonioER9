@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Languages and Tools
-![68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6e6f64652d6a732f6c6f676f2d6e6f64652d6a732d3235362e706e67](https://github.com/AntonioER9/AntonioER9/assets/28747544/34752fe2-d4a4-49f3-afb9-3592b62b2ff2)
-![react-icon-256x256-2yyldh38](https://github.com/AntonioER9/AntonioER9/assets/28747544/5cf2aec6-2cbb-4458-94d4-cb0880b2d4f6)
-![TypeScript](https://github.com/AntonioER9/AntonioER9/assets/28747544/1cbef8a5-466c-4725-928c-799eaf4a2a33)
-![images](https://github.com/AntonioER9/AntonioER9/assets/28747544/89f9fd95-db8c-4964-b13d-3bc45d0df19c)
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/34752fe2-d4a4-49f3-afb9-3592b62b2ff2" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/5cf2aec6-2cbb-4458-94d4-cb0880b2d4f6" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1cbef8a5-466c-4725-928c-799eaf4a2a33" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/89f9fd95-db8c-4964-b13d-3bc45d0df19c" width=100 height=100>
+
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/823bedad-f988-4c5a-805f-eaf6ee0ee6ac" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/8d815140-d8b8-4484-b45e-fba74db87d0b" width=100 height=100>
 
 
+### I'm currently learning more about C# and Kafka. 
 
-### I'm currently learning more about Kafka and C#. 
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/74901df9-21b3-4c4c-b9b3-0ac5f65d5ec4" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/5cdd64b8-0003-430b-8bd7-cd735537683a" width=100 height=100>
