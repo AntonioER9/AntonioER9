@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### I'm currently learning more about C# and Kafka. 
 
 <img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/74901df9-21b3-4c4c-b9b3-0ac5f65d5ec4" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/5cdd64b8-0003-430b-8bd7-cd735537683a" width=100 height=100>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1506888b-fa0c-463e-945d-349ecab34ec1" width=100 height=100>
