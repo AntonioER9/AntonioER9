@@ -14,17 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages and Tools
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/34752fe2-d4a4-49f3-afb9-3592b62b2ff2" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/5cf2aec6-2cbb-4458-94d4-cb0880b2d4f6" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1cbef8a5-466c-4725-928c-799eaf4a2a33" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/89f9fd95-db8c-4964-b13d-3bc45d0df19c" width=100 height=100>
 
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/823bedad-f988-4c5a-805f-eaf6ee0ee6ac" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/8d815140-d8b8-4484-b45e-fba74db87d0b" width=100 height=100>
+### Languages and Tools
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width=70 height=70 title="nodejs">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" width=70 height=70 title="nest">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=70 height=70 title="express">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width=70 height=70 title="react">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width=70 height=70 title="next">
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1cbef8a5-466c-4725-928c-799eaf4a2a33" width=70 height=70 title="typescript">
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width=70 height=70 title="mongo">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width=70 height=70 title="mysql">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width=70 height=70 title="postgres">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prisma.svg" width=70 height=70 title="prisma">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width=70 height=70 title="docker">
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/6ca68fac-4719-4f49-8598-d32288bdce15" width=70 height=70 title="k8s">
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/0cd6dbb3-fa66-4e6a-bedd-9dcfe30e7373" width=70 height=70 title="aws">
+
+</p>
 
 
-### I'm currently learning more about C# and Kafka. 
+### I'm currently learning more about C# with .NET and Kafka. 
 
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/74901df9-21b3-4c4c-b9b3-0ac5f65d5ec4" width=100 height=100>
-<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1506888b-fa0c-463e-945d-349ecab34ec1" width=100 height=100>
+<p align="center">
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/74901df9-21b3-4c4c-b9b3-0ac5f65d5ec4" width=70 height=70>
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/609e0eaf-8b6e-4dd4-8010-7349ab1083ed" width=70 height=70>
+
+<img src="https://github.com/AntonioER9/AntonioER9/assets/28747544/1506888b-fa0c-463e-945d-349ecab34ec1" width=70 height=70>
+</p>
+
+### GitHub Analytics
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioER9&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="AntonioER9 github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioER9&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+ 
