@@ -1,8 +1,8 @@
 # Hi, I'm Antonio Espinoza 😀
 
-### Software Engineer with over 5 years of experience successfully developing more than 10 projects for various types of businesses using agile methodologies. Motivated by continuous learning and collaborative work.
+## Software Engineer with over 5 years of experience successfully developing more than 10 projects for various types of businesses using agile methodologies. Motivated by continuous learning and collaborative work.
 
-## Skills
+# Skills
 
 ### Backend Technologies
 
@@ -12,15 +12,14 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,reactivex,next,astro,html,css,tailwind,sass&theme=dark)
 
 ### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,dynamodb&theme=dark)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,firebase,dynamodb&theme=dark)
 
 ### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,jest,githubactions,gitlab,postman&theme=dark)
+![Others](https://skillicons.dev/icons?i=git,github,vscode,jest,grafana,githubactions,gitlab,postman&theme=dark)
 
 
 ### I'm currently learning more about
 
-### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=dotnet,cs,kafka&theme=dark)
 
 ### GitHub Analytics
