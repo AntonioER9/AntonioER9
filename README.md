@@ -6,13 +6,13 @@
 
 ### Backend Technologies
 
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,nginx,docker,kubernetes,terraform,aws&theme=dark)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,py,django,nginx,docker,kubernetes,terraform,aws&theme=dark)](https://skillicons.dev)
 
 ### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,reactivex,next,astro,html,css,tailwind,sass&theme=dark)
 
 ### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,firebase,dynamodb&theme=dark)
+![Database & Tools](https://skillicons.dev/icons?i=kafka,mysql,postgres,prisma,mongodb,firebase,dynamodb&theme=dark)
 
 ### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,vscode,jest,grafana,githubactions,gitlab,postman&theme=dark)
@@ -20,7 +20,7 @@
 
 ### I'm currently learning more about
 
-![Others](https://skillicons.dev/icons?i=dotnet,cs,kafka&theme=dark)
+![Others](https://skillicons.dev/icons?i=java,spring&theme=dark)
 
 ### GitHub Analytics
 <div align="center">  
