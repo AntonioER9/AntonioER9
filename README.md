@@ -20,7 +20,7 @@
 
 ### I'm currently learning more about
 
-![Others](https://skillicons.dev/icons?i=java,spring&theme=dark)
+![Others](https://skillicons.dev/icons?i=java,spring,go&theme=dark)
 
 ### GitHub Analytics
 <div align="center">  
